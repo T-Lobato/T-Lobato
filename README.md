@@ -3,7 +3,7 @@
 - 📫  Para entrar em contato comigo -> Thyagollobato@gmail.com.
 
 <div>
-  <a href="https://https://github.com/T-Lobato">
+  <a href="https://github.com/T-Lobato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T-Lobato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Lobato&layout=compact&langs_count=7&theme=dark"/>
 </div>

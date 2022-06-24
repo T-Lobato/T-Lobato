@@ -10,7 +10,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Thyago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Thyago-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Thyago-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Thyago-SQL" height="30" width="40" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
   </div>
   

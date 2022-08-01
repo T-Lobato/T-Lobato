@@ -1,5 +1,5 @@
 - 👋  Olá, me chamo Thyago de Oliveira Lobato, sou estudante de Desenvolvimento Mobile na Faculdade Anhanguera.
-- 👀  Estou atualmente aprendendo Java, MySQL e Spring.
+- 👀  Estou atualmente aprendendo Java, Python, MySQL e Spring.
 - 📫  Para entrar em contato comigo -> Thyagollobato@gmail.com.
 
 <div>
@@ -10,6 +10,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Thyago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Thyago-Python" height="22" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
   <img align="center" alt="Thyago-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Thyago-SQL" height="30" width="40" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
   </div>
